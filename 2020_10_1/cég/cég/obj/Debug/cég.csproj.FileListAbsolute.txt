@@ -1,0 +1,6 @@
+C:\Users\bus.tamas\source\repos\cég\cég\bin\Debug\cég.exe.config
+C:\Users\bus.tamas\source\repos\cég\cég\bin\Debug\cég.exe
+C:\Users\bus.tamas\source\repos\cég\cég\bin\Debug\cég.pdb
+C:\Users\bus.tamas\source\repos\cég\cég\obj\Debug\cég.csprojAssemblyReference.cache
+C:\Users\bus.tamas\source\repos\cég\cég\obj\Debug\cég.exe
+C:\Users\bus.tamas\source\repos\cég\cég\obj\Debug\cég.pdb
